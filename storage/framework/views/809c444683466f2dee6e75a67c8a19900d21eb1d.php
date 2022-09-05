@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\joblawbee\resources\views/errors/500.blade.php ENDPATH**/ ?>

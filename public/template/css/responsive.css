@@ -1,0 +1,225 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width: 1100px) and (min-width: 981px){
+
+}
+@media only screen and (max-width: 980px){
+    
+
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    #non-industry-stardards-block{display:block!important;}
+    .num-only{width: 100%!important;}
+    .w-50 {
+    width: 100% !important;
+}
+
+#current{
+    margin-top: 6%;
+}
+
+#loc{
+    text-align: center;
+}
+
+#des{
+    margin-top: 30%;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 2.25rem;
+}
+.mr-r{margin-right:0;}
+.step-div:before {
+    top: 100px;
+    position: absolute;
+    content: " ";
+    width: 5px;
+    height: 60%;
+    background-color: #d8d8d8;
+    z-index: 0;
+    left: 49%;
+    right: 0;
+}
+
+ .experience{
+         text-align: center;
+    padding-left: 0px;
+     }
+.tabs-red {
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    overflow: scroll;    display: block;
+}
+.tabs-red .nav-item {
+    padding: 0;
+    text-transform: uppercase;
+    font-size: 15px;
+    display: table-cell;
+    white-space: nowrap;
+}
+.tabs-red .nav-item a:hover {
+    box-shadow: none;
+    border-radius: 50px;
+}
+.m-b-2{
+        margin-bottom:10px;
+    }
+
+}
+@media only screen and (max-width: 479px){
+    .col-sm-3{
+        width: 40%;
+    display: flex;
+    }
+    .col-sm-9{
+        width: 60%;
+    display: flex;
+    }
+ 
+
+ .moblle-text   {
+    width: 75%;
+}
+
+#loc{
+    text-align: center;
+}
+
+#current{
+    margin-top: 6%;
+}
+.mobile-code {
+    width: 25%;
+    display: inline-block;
+}
+    .nav-item {
+    padding: 0 0px;
+    }
+    #des{
+    margin-top: 30%;
+}
+
+    #non-industry-stardards-block{display:block!important;}
+    .num-only{width: 100%!important;}
+	.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 2.25rem;
+}
+.experience{
+         text-align: center;
+    padding-left: 0px;
+     }
+.mr-r{margin-right:0;}
+.step-div:before {
+    top: 100px;
+    position: absolute;
+    content: " ";
+    width: 5px;
+    height: 60%;
+    background-color: #d8d8d8;
+    z-index: 0;
+    left: 49%;
+    right: 0;
+}
+.tabs-red {
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    overflow: scroll;    display: block;
+}
+.tabs-red .nav-item {
+    padding: 0;
+    text-transform: uppercase;
+    font-size: 15px;
+    display: table-cell;
+    white-space: nowrap;
+}
+.tabs-red .nav-item a:hover {
+    box-shadow: none;
+    border-radius: 50px;
+}
+.side-bar{display:none;}
+.text-r{text-align:left;}
+.tabs-red .nav-item>.nav-link.active{ font-size: 11px; padding: 10px 14px;}
+    .tabs-red .nav-item a{font-size: 11px; padding: 10px 14px;}
+    .w-50 {
+    width: 100% !important;
+}
+.m-b-2{
+        margin-bottom:10px;
+    }
+}
+
+@media only screen and (max-width: 320px){
+    .nav-item {
+    padding: 0 0px;
+    }
+    #current{
+    margin-top: 6%;
+}
+
+#loc{
+    text-align: center;
+}
+
+    #des{
+    margin-top: 30%;
+}
+
+    #non-industry-stardards-block{display:block!important;}
+    .num-only{width: 100%!important;}
+    .m-b-2{
+        margin-bottom:10px;
+    }
+    .w-50 {
+    width: 100% !important;
+}
+   .tabs-red .nav-item>.nav-link.active{ font-size: 9px; padding: 10px 12px;}
+    .tabs-red .nav-item a{font-size: 9px; padding: 10px 12px;}
+
+	.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 2rem;
+}
+.mr-r{margin-right:0;}
+.step-div:before {
+    top: 100px;
+    position: absolute;
+    content: " ";
+    width: 5px;
+    height: 60%;
+    background-color: #d8d8d8;
+    z-index: 0;
+    left: 49%;
+    right: 0;
+}
+.tabs-red {
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    overflow: scroll;    display: block;
+}
+.tabs-red .nav-item {
+    padding: 0;
+    text-transform: uppercase;
+    font-size: 15px;
+    display: table-cell;
+    white-space: nowrap;
+}
+.tabs-red .nav-item a:hover {
+    box-shadow: none;
+    border-radius: 50px;
+}
+.side-bar{display:none;}
+.text-r{text-align:left;}
+}

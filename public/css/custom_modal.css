@@ -1,0 +1,26 @@
+#custom-messenger .modal-dialog {
+    width: 350px;
+    margin: 10% auto 30px;
+}
+
+#custom-messenger .modal-header {
+    background-color: #181816;
+    border-bottom: 1px solid #181816;
+}
+
+#custom-messenger .modal-title {
+    color: whitesmoke;
+}
+
+#custom-messenger .modal-header {
+    border-top: 1px solid #181816;
+}
+
+#custom-messenger .modal-footer button {
+    background-color: #E94824;
+    border-color: coral;
+}
+
+#custom-messenger .coloredClose i {
+    color: #E94824;
+}
